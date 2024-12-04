@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460351196900",
+    "project_id": "college-alert-applicatio-a9660",
+    "storage_bucket": "college-alert-applicatio-a9660.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460351196900:android:19ad6fa1d4a17f846ae6f1",
+        "android_client_info": {
+          "package_name": "com.example.collegealertapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yMwnEnt7XNVrRCH1f1wKjX0F559AYXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
